@@ -34,5 +34,5 @@ Check out the result of pulling down from GitHub and pushing up to the Visual St
 
 ## Next
 
-[Lab 1.3](https://github.com/DXPortugal/Xamarin.Devops/blob/master/lab13.md) - Create your Android Build Definition
+[Lab 1.3](lab13.md) - Create your Android Build Definition
 

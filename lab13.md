@@ -77,5 +77,5 @@ In this step we're going to configure a build definition targeting the Android P
 
 ## Next
 
-[Lab 1.4](https://github.com/DXPortugal/Xamarin.Devops/blob/master/lab14.md) - Create your UWP Build Definition
+[Lab 1.4](lab14.md) - Create your UWP Build Definition
 

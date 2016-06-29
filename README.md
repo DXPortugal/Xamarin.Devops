@@ -5,17 +5,17 @@ This hands
 ------
 
 ##Lab1
-[Lab 1.1](https://github.com/DXPortugal/Xamarin.Devops/blob/master/lab11.md) - Create your VSTS Subscription and Dev Team
+[Lab 1.1](lab11.md) - Create your VSTS Subscription and Dev Team
 
-[Lab 1.2](https://github.com/DXPortugal/Xamarin.Devops/blob/master/lab12.md) - Clone your project from Github
+[Lab 1.2](lab12.md) - Clone your project from Github
 
-[Lab 1.3](https://github.com/DXPortugal/Xamarin.Devops/blob/master/lab13.md) - Create your Android Build Definition
+[Lab 1.3](lab13.md) - Create your Android Build Definition
 
-[Lab 1.4](https://github.com/DXPortugal/Xamarin.Devops/blob/master/lab14.md) - Create your UWP Build Definition
+[Lab 1.4](lab14.md) - Create your UWP Build Definition
 
-[Lab 1.5](https://github.com/DXPortugal/Xamarin.Devops/blob/master/lab15.md) - Create your iOS Build Definition
+[Lab 1.5](lab15.md) - Create your iOS Build Definition
 
-[Lab 1.6](https://github.com/DXPortugal/Xamarin.Devops/blob/master/teste.md) - Set Continuous Integration
+[Lab 1.6](teste.md) - Set Continuous Integration
 
 
 

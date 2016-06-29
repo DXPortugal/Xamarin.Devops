@@ -65,5 +65,5 @@ OK, now assemble all your team members, and make sure you put photos on every me
 
 ## Next
 
-[Lab 1.2](https://github.com/DXPortugal/Xamarin.Devops/blob/master/lab12.md) - Clone your project from Github
+[Lab 1.2](lab12.md) - Clone your project from Github
 
